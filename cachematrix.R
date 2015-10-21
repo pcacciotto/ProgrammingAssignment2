@@ -1,5 +1,5 @@
 ## ==================================
-## Pierpaolo Cacciotto - Assignment 2 
+## pcacciotto - Assignment 2 
 ## ==================================
 ## The following functions first create a special "matrix" that will be used to cache its 
 ## inverse. Then, the actual inverse is computed. As a final check the matrix product is 
